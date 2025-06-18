@@ -4,7 +4,7 @@ export default function Main() {
     return (
         <main className="main">
             <div className="person-info">
-                <h1 className="name">Vanya Bozadzhieva</h1>
+                <h1 className="name">Vanya Smith</h1>
                 <h2 className="profession">Frontend Developer</h2>
                 <a className="website" href="#">wwww.website.com</a>
             </div>
