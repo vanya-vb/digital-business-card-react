@@ -1,3 +1,5 @@
+import { EmailButton, LinkedInButton } from "./Buttons"
+
 export default function Main() {
     return (
         <main className="main">
@@ -8,8 +10,8 @@ export default function Main() {
             </div>
 
             <div className="btn-link-container">
-                <a href="#" className=" btn-link btn-email"><i class="fa-solid fa-envelope"></i>Email</a>
-                <a href="#" className=" btn-link btn-linkedin"><i class="fa-brands fa-linkedin"></i>LinkedIn</a>
+                <EmailButton />
+                <LinkedInButton />
             </div>
 
             <div className="about-section">
