@@ -1,5 +1,5 @@
 # Digital Business Card
-Digital Business Card is one of the solo projects of [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j) at the end of module React Basics. Everything in this project is static. The challenge is to:
+Digital Business Card is one of the solo projects of [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j) at the end of module Static React (part of the React Basics module). Everything in this project is static. The challenge is to:
 - build it from scratch
 - make separate components
 
