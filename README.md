@@ -21,3 +21,4 @@
 - Figma (for UI design reference)
 
 > 🎓An assignment from my education at Scrimba platform
+
