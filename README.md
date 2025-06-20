@@ -4,7 +4,7 @@
 - Build the UI from scratch using a provided [Figma design](https://www.figma.com/design/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0-1&p=f&t=qLXKhjfoSqoYGw2x-0)
 - Structure the app using reusable React components
 
-> [View it live here]()
+> [View it live here](https://vanya-vb.github.io/digital-business-card-react/)
 
 ## What I learned
 - How to set up a new React project using **Vite**
